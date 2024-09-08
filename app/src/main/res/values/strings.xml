@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FirebaseAutenticacao</string>
+    <string name="login">Login</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="email">Email</string>
+    <string name="insira_um_e_mail">Insira um e-mail</string>
+    <string name="senha">senha</string>
+    <string name="insira_uma_senha">insira_uma_senha</string>
+    <string name="repetir_senha">repetir senha</string>
+    <string name="repita_a_senha">repita sua senha</string>
+    <string name="cancelar">cancelar</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="Cadastrar">Cadastrar</string>
+    <string name="Email">E-mail</string>
+    <string name="Senha">Senha</string>
+    <string name="Repetir_senha">Repitir a Senha</string>
+    <string name="Repita_a_senha">Repita sua senha</string>
+    <string name="Repita_a_Senha">repita sua senha</string>
+</resources>
